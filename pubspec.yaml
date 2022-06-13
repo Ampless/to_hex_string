@@ -1,0 +1,11 @@
+name: to_hex_string
+description: A single extension on int to convert it to a proper hex string, since the Dart team stubbornly refuses to add it.
+version: 1.0.0
+homepage: https://github.com/Ampless/to_hex_string
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
